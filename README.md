@@ -1,7 +1,7 @@
 
 # Puzzle
 The objective of this neural network is to solve the following puzzle  
-![Puzzle](https://github.com/ssd352/extrapolation/raw/master/input.jpg)
+![Puzzle](input.jpg)
 
 
 ```python
