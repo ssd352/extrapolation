@@ -1,7 +1,10 @@
 
 # Puzzle
-The objective of this neural network is to solve the following puzzle  
-![Puzzle](input.jpg)
+The objective of this neural network is to solve the following puzzle:    
+1 + 4 = 5    
+2 + 5 = 12  
+3 + 6 = 21  
+8 + 11 = ? 
 
 
 ```python
